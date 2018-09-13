@@ -1,0 +1,4 @@
+ag7648 ofdpa release note(v0.0.0.0.1)
+Delta Network Inc.
+ofdpa(v0.0.0.0.1) support the ag7648 platform
+
