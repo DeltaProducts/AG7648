@@ -1,0 +1,4 @@
+ag7648 ofdpa release note(v0.0.0.0.3)
+Delta Network Inc.
+ofdpa(v0.0.0.0.3) was configured  to start up with service and can auto start
+
