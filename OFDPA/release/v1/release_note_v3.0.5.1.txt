@@ -1,0 +1,9 @@
+ag7648 ofdpa release note(v3.0.5.1)
+Delta Network Inc.
+this document provides information for update and modification in ofdpa(v3.0.5.1)
+there are the following devices information modification:
+1. the infomation of hw was updated with "x86_64-delta_ag7648-r0"
+2. the infomation of mrf was updated with "Delta Corp."
+3. the infomation of sw was updated with "Delta-ofdpa 3.0.5.0"
+4. the infomation of serial was updated by reading the eeprom serial number
+
