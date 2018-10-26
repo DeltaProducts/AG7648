@@ -9,9 +9,9 @@ we need to configure /etc/ofdpa/ofdpa.conf, there are Variable parameters you sh
 		CTRL1_PORT="6653"
 		MAX_LOG_NUM=3
 To start the ofdpad, run the command:
-	eg: service ofagentd start
+	eg: service ofdpad start
 To stop the ofdpad, run the command:
-	eg: service ofagentd stop
+	eg: service ofdpad stop
 3. To run it in debug mode,Uncomment and set OPT_ARGS 
 	eg: OPT_ARGS="-d 2 -c 2 -c 4 -t <controller_ip_1> -t <controller_ip_2> -t <controller_ip_3> -i <dpid>"
 
