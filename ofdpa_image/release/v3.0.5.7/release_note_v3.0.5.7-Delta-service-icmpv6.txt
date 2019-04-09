@@ -1,0 +1,19 @@
+ag7648 ofdpa release note(v3.0.5.6-Delta-service-icmpv6)
+Delta Network Inc.
+the release was configured  to start up with service and can auto start
+and it add the support icmpv6
+1. installing way:
+	eg:dpkg -i *.deb
+2. run the ofdpad service
+we need to configure /etc/ofdpa/ofdpa.conf, there are Variable parameters you should Uncomment and set them
+	eg: CTRL1_IP="172.17.144.149"
+		CTRL1_PORT="6653"
+		MAX_LOG_NUM=3
+To start the ofdpad, run the command:
+	eg: service ofdpad start
+To stop the ofdpad, run the command:
+	eg: service ofdpad stop
+3. To run it in debug mode,Uncomment and set OPT_ARGS 
+	eg: OPT_ARGS="-d 2 -c 2 -c 4 -t <controller_ip_1> -t <controller_ip_2> -t <controller_ip_3> -i <dpid>"
+
+
