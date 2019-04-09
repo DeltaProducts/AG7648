@@ -1,4 +1,4 @@
-ag7648 ofdpa release note(v3.0.5.6-Delta-service-icmpv6)
+ag7648 ofdpa release note(v3.0.5.7-Delta-service-icmpv6)
 Delta Network Inc.
 the release was configured  to start up with service and can auto start
 and it add the support icmpv6
